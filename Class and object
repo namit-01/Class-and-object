@@ -1,0 +1,13 @@
+public class Main{
+public static class student{
+int age;
+String name;
+}
+public static void main(String[]args)
+{
+student s =new student();
+s.age=9;
+s.name="namit";
+System.out.print(s.age);
+}
+}
